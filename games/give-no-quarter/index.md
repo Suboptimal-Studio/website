@@ -14,7 +14,7 @@ Pre-Alpha
 
 ## Early Access / Testing?
 
-Available only through Discord by participating in various events on Discord. Alternatively, some users who [sign up to our newsletter](/forms/newsletter.md) may also be eligible.
+Available only through our [Community Discord](https://discord.gg/invite/9uwyJ85Jae) by participating in various events in our Discord. Alternatively, some users who [sign up to our newsletter](/forms/newsletter.md) may also be eligible.
 
 ## Screenshots
 

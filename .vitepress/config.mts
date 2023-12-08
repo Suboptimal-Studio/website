@@ -4,6 +4,9 @@ import { defineConfig } from 'vitepress';
 export default defineConfig({
     title: 'Suboptimal Studio',
     description: 'We build games. Optimization is optional.',
+    sitemap: {
+        hostname: 'https://suboptimalstudio.com',
+    },
     themeConfig: {
         // https://vitepress.dev/reference/default-theme-config
         nav: [
