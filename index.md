@@ -5,11 +5,20 @@ layout: home
 hero:
     name: 'Suboptimal Studio'
     text: ''
-    tagline: 'Check out our latest games.'
+    tagline: 'Check out our latest games, and follow in Discord.'
+    image:
+        src: logo.png
+        alt: VitePress
     actions:
         - theme: brand
           text: Give No Quarter
           link: /games/give-no-quarter/index
+        - theme: alt
+          text: Join Discord
+          link: https://discord.gg/invite/9uwyJ85Jae
+        - theme: alt
+          text: Follow on YouTube
+          link: https://youtube.com/stuyk
 
 features:
     - title: About
